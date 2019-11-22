@@ -117,7 +117,7 @@ class Victimhome extends Component {
                                             an immediate response
                                             I usually let them pile up for a bit and then knock them out all at once.
                                             You can also find me on the social networks on my connect page.
-                                            Feel free to follow me there as well!.
+                                            Feel free to follow me there as well ! .
                                         </p>
 
                                         <div className="footer_column">

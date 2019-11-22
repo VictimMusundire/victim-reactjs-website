@@ -2,10 +2,11 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Header from "./components/Header";
-import Victimhome from "./pages/Victimhome";
-// import Victimmeet from "./pages/Victimmeet";
 import Footer from "./components/Footer";
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import Victimhome from "./pages/Victimhome";
+import Victimmeet from "./pages/Victimmeet";
+import Victimdefault from "./pages/Victimdefault";
 
 function App() {
   return (
@@ -15,9 +16,10 @@ function App() {
           <Header/>
         <Switch>
 
-            <Route path="/" component={Victimhome}/>
-            {/*<Route path="/victimmeet" component={Victimmeet}/>*/}
-          <Victimhome/>
+            <Route exact path="/" component={Victimhome}/>
+            <Route path="/victimmeet" component={Victimmeet}/>
+            <Route  component={Victimdefault}/>
+
 
         </Switch>
             <Footer/>

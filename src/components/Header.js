@@ -25,13 +25,13 @@ class Header extends Component {
                                 <li className="has_children">
                                     <a href="#">About Victim</a>
                                     <ul>
-                                        <li><Link to="/victimmeet">Meet Victim</Link></li>
-                                        <li><Link to="/victimmeet">The Advise</Link></li>
+                                        <li><Link to= "/victimmeet">Meet Victim</Link></li>
+                                        <li><Link to= "/updating">The Advise</Link></li>
 
                                     </ul>
                                 </li>
-                                <li><Link to="/victimprojects">Projects</Link></li>
-                                <li><Link to="/victimstack">Stack</Link></li>
+                                <li><Link to="/updating">Projects</Link></li>
+                                <li><Link to="/updating">Stack</Link></li>
                             </ul>
                         </nav>
 
@@ -57,12 +57,12 @@ class Header extends Component {
 
                  {/*Menu */}
 
-                <div class="menu">
-                    <div class="menu_container">
-                        <div class="menu_close"><i class="fa fa-times" aria-hidden="true"></i></div>
-                        <div class="menu_content d-flex flex-column align-items-center justify-content-start">
-                            <nav class="menu_nav">
-                                <ul class="d-flex flex-column align-items-center justify-content-start">
+                <div className="menu">
+                    <div className="menu_container">
+                        <div className="menu_close"><i className="fa fa-times" aria-hidden="true"></i></div>
+                        <div className="menu_content d-flex flex-column align-items-center justify-content-start">
+                            <nav className="menu_nav">
+                                <ul className="d-flex flex-column align-items-center justify-content-start">
                                     <li><a href="index.html">Home</a></li>
                                     <li><a href="about.html">About us</a></li>
                                     <li><a href="schedule.html">Schedule</a></li>
@@ -71,14 +71,14 @@ class Header extends Component {
                                 </ul>
                             </nav>
                         </div>
-                        <div class="menu_social">
-                            <div class="social">
-                                <ul class="d-flex flex-row align-items-center justify-content-start">
-                                    <li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-behance" aria-hidden="true"></i></a></li>
+                        <div className="menu_social">
+                            <div className="social">
+                                <ul className="d-flex flex-row align-items-center justify-content-start">
+                                    <li><a href="#"><i className="fa fa-pinterest" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i className="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i className="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i className="fa fa-dribbble" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i className="fa fa-behance" aria-hidden="true"></i></a></li>
                                 </ul>
                             </div>
                         </div>

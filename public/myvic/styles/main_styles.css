@@ -1498,6 +1498,10 @@ section
 .vicspace{
 	height: 50px;
 }
+
+.vicradius{
+	border-radius: 50%;
+}
 .footer_bar
 {
 	background: #190e2b;
