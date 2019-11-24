@@ -52,42 +52,42 @@ class Footer extends Component {
 
                                             {/*Gallery Item */}
                                             <div className="gallery_item">
-                                                <a className="colorbox" href="myvic/images/gallery_1_large.jpg"><img src="myvic/images/gallery_1.jpg" alt=""/></a>
+                                                <a className="colorbox" href="myvic/imagess/gallery_1_large.jpg"><img src="myvic/imagess/gallery_1.jpg" alt=""/></a>
                                             </div>
 
                                              {/*Gallery Item */}
                                             <div className="gallery_item">
-                                                <a className="colorbox" href="myvic/images/gallery_2_large.jpg"><img src="myvic/images/gallery_2.jpg" alt=""/></a>
+                                                <a className="colorbox" href="myvic/imagess/gallery_2_large.jpg"><img src="myvic/imagess/gallery_2.jpg" alt=""/></a>
                                             </div>
 
                                              {/*Gallery Item */}
                                             <div className="gallery_item">
-                                                <a className="colorbox" href="myvic/images/gallery_3_large.jpg"><img src="myvic/images/gallery_3.jpg" alt=""/></a>
+                                                <a className="colorbox" href="myvic/imagess/gallery_3_large.jpg"><img src="myvic/imagess/gallery_3.jpg" alt=""/></a>
                                             </div>
 
                                              {/*Gallery Item */}
                                             <div className="gallery_item">
-                                                <a className="colorbox" href="myvic/images/gallery_4_large.jpg"><img src="myvic/images/gallery_4.jpg" alt=""/></a>
+                                                <a className="colorbox" href="myvic/imagess/gallery_4_large.jpg"><img src="myvic/imagess/gallery_4.jpg" alt=""/></a>
                                             </div>
 
                                              {/*Gallery Item */}
                                             <div className="gallery_item">
-                                                <a className="colorbox" href="myvic/images/gallery_5_large.jpg"><img src="images/gallery_5.jpg" alt=""/></a>
+                                                <a className="colorbox" href="myvic/imagess/gallery_5_large.jpg"><img src="imagess/gallery_5.jpg" alt=""/></a>
                                             </div>
 
                                              {/*Gallery Item */}
                                             <div className="gallery_item">
-                                                <a className="colorbox" href="myvic/images/gallery_6_large.jpg"><img src="myvic/images/gallery_6.jpg" alt=""/></a>
+                                                <a className="colorbox" href="myvic/imagess/gallery_6_large.jpg"><img src="myvic/imagess/gallery_6.jpg" alt=""/></a>
                                             </div>
 
                                              {/*Gallery Item */}
                                             <div className="gallery_item">
-                                                <a className="colorbox" href="myvic/images/gallery_7_large.jpg"><img src="myvic/images/gallery_7.jpg" alt=""/></a>
+                                                <a className="colorbox" href="myvic/imagess/gallery_7_large.jpg"><img src="myvic/imagess/gallery_7.jpg" alt=""/></a>
                                             </div>
 
                                              {/*Gallery Item */}
                                             <div className="gallery_item">
-                                                <a className="colorbox" href="myvic/images/gallery_8_large.jpg"><img src="myvic/images/gallery_8.jpg" alt=""/></a>
+                                                <a className="colorbox" href="myvic/imagess/gallery_8_large.jpg"><img src="myvic/imagess/gallery_8.jpg" alt=""/></a>
                                             </div>
 
                                         </div>
