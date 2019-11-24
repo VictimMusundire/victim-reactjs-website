@@ -36,7 +36,7 @@ class Footer extends Component {
                                {/*Newsletter */}
                                 <div className="col-lg-4 footer_col">
                                     <div className="footer_column">
-                                        <div className="footer_title">Newsletter</div>
+                                        <div className="footer_title">My Newsletter</div>
                                         <form action="#" className="newsletter_form" id="newsletter_form">
                                             <input type="email" className="newsletter_input" placeholder="Your email address" required="required"/>
                                                 <button className="newsletter_button"><span>subscribe<img src="myvic/images/arrow.png" alt=""/></span></button>
