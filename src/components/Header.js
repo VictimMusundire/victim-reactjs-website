@@ -38,9 +38,9 @@ class Header extends Component {
 
                             <div className="social">
                                 <ul className="d-flex flex-row align-items-center justify-content-start">
-                                    <li><a href="#"><i className="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i className="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i className="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/victim-musundire/" target="blank"><i className="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://www.facebook.com/victim.musundire" target="blank"><i className="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://twitter.com/victimmusundire" target="blank"><i className="fa fa-twitter" aria-hidden="true"></i></a></li>
                                 </ul>
                             </div>
                             <div className="header_link">
