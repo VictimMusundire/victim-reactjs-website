@@ -63,22 +63,20 @@ class Header extends Component {
                         <div className="menu_content d-flex flex-column align-items-center justify-content-start">
                             <nav className="menu_nav">
                                 <ul className="d-flex flex-column align-items-center justify-content-start">
-                                    <li><a href="index.html">Home</a></li>
-                                    <li><a href="about.html">About us</a></li>
-                                    <li><a href="schedule.html">Schedule</a></li>
-                                    <li><a href="blog.html">News</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="/">Home</a></li>
+                                    <li><a href="/victimmeet">Meet Victim</a></li>
+                                    <li><a href="/victimadvise">The Advise</a></li>
+                                    <li><a href="/victimproducts">Products</a></li>
+                                    <li><a href="/victimstack">Stack</a></li>
                                 </ul>
                             </nav>
                         </div>
                         <div className="menu_social">
                             <div className="social">
                                 <ul className="d-flex flex-row align-items-center justify-content-start">
-                                    <li><a href="#"><i className="fa fa-pinterest" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i className="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i className="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i className="fa fa-dribbble" aria-hidden="true"></i></a></li>
-                                    <li><a href="#"><i className="fa fa-behance" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/victim-musundire/" target="blank"><i className="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://www.facebook.com/victim.musundire" target="blank"><i className="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a href="https://twitter.com/victimmusundire" target="blank"><i className="fa fa-twitter" aria-hidden="true"></i></a></li>
                                 </ul>
                             </div>
                         </div>
