@@ -21,17 +21,16 @@ class Header extends Component {
                        {/*Main Navigation */}
                         <nav className="main_nav">
                             <ul className="d-flex flex-row align-items-center justify-content-start">
-                                <li> <Link to="/" className="active">Home</Link></li>
+                                <li> <a href="/" className="active">Home</a></li>
                                 <li className="has_children">
                                     <a href="#">About Victim</a>
                                     <ul>
-                                        <li><Link to= "/victimmeet">Meet Victim</Link></li>
-                                        <li><Link to= "/updating">The Advise</Link></li>
-
+                                        <li><a href="/victimmeet">Meet Victim</a></li>
+                                        <li><a href="/updating">The Advise</a></li>
                                     </ul>
                                 </li>
-                                <li><Link to="/updating">Projects</Link></li>
-                                <li><Link to="/updating">Stack</Link></li>
+                                <li><a href="/updating">Projects</a></li>
+                                <li><a href="/updating">Stack</a></li>
                             </ul>
                         </nav>
 
