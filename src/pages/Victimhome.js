@@ -50,7 +50,7 @@ class Victimhome extends Component {
                                             front-end/back-end web, database/server management and some bit of graphic design.
                                         </p>
                                     </div>
-                                    <div className="button button_2 intro_button"><a href="#"><span>See More</span><img src="myvic/images/arrow.png" alt=""/></a></div>
+                                    {/*<div className="button button_2 intro_button"><a href="#"><span>See More</span><img src="myvic/images/arrow.png" alt=""/></a></div>*/}
                                 </div>
                             </div>
 

@@ -64,7 +64,7 @@ class Header extends Component {
                             <nav className="menu_nav">
                                 <ul className="d-flex flex-column align-items-center justify-content-start">
                                     <li><a href="/">Home</a></li>
-                                    <li><a href="/victimmeet">Meet Victim</a></li>
+                                    <li><Link to="/victimmeet">Meet Victim</Link></li>
                                     <li><a href="/victimadvise">The Advise</a></li>
                                     <li><a href="/victimproducts">Products</a></li>
                                     <li><a href="/victimstack">Stack</a></li>
