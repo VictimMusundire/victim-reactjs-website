@@ -47,47 +47,47 @@ class Footer extends Component {
                                  {/*Gallery */}
                                 <div className="col-lg-4 footer_col">
                                     <div className="footer_column">
-                                        <div className="footer_title">Victim Instagram</div>
+                                        <div className="footer_title">Victim Photos</div>
                                         <div className="gallery d-flex flex-row align-items-start justify-content-between flex-wrap">
 
                                             {/*Gallery Item */}
                                             <div className="gallery_item">
-                                                <a className="colorbox" href="myvic/imagess/gallery_1_large.jpg"><img src="myvic/imagess/gallery_1.jpg" alt=""/></a>
+                                                <a className="colorbox" href="myvic/images/victim3.jpg"><img src="myvic/images/victim3.jpg" alt=""/></a>
                                             </div>
 
                                              {/*Gallery Item */}
                                             <div className="gallery_item">
-                                                <a className="colorbox" href="myvic/imagess/gallery_2_large.jpg"><img src="myvic/imagess/gallery_2.jpg" alt=""/></a>
+                                                <a className="colorbox" href="myvic/images/victim4.jpg"><img src="myvic/images/victim4.jpg" alt=""/></a>
                                             </div>
 
                                              {/*Gallery Item */}
                                             <div className="gallery_item">
-                                                <a className="colorbox" href="myvic/imagess/gallery_3_large.jpg"><img src="myvic/imagess/gallery_3.jpg" alt=""/></a>
+                                                <a className="colorbox" href="myvic/images/victim2.jpg"><img src="myvic/images/victim2.jpg" alt=""/></a>
                                             </div>
 
                                              {/*Gallery Item */}
                                             <div className="gallery_item">
-                                                <a className="colorbox" href="myvic/imagess/gallery_4_large.jpg"><img src="myvic/imagess/gallery_4.jpg" alt=""/></a>
+                                                <a className="colorbox" href="myvic/images/victim6.jpg"><img src="myvic/images/victim6.jpg" alt=""/></a>
                                             </div>
 
                                              {/*Gallery Item */}
                                             <div className="gallery_item">
-                                                <a className="colorbox" href="myvic/imagess/gallery_5_large.jpg"><img src="imagess/gallery_5.jpg" alt=""/></a>
+                                                <a className="colorbox" href="myvic/images/victim9.jpg"><img src="myvic/images/victim9.jpg" alt=""/></a>
                                             </div>
 
                                              {/*Gallery Item */}
                                             <div className="gallery_item">
-                                                <a className="colorbox" href="myvic/imagess/gallery_6_large.jpg"><img src="myvic/imagess/gallery_6.jpg" alt=""/></a>
+                                                <a className="colorbox" href="myvic/images/victim7.jpg"><img src="myvic/images/victim7.jpg" alt=""/></a>
                                             </div>
 
                                              {/*Gallery Item */}
                                             <div className="gallery_item">
-                                                <a className="colorbox" href="myvic/imagess/gallery_7_large.jpg"><img src="myvic/imagess/gallery_7.jpg" alt=""/></a>
+                                                <a className="colorbox" href="myvic/images/victim5.jpg"><img src="myvic/images/victim5.jpg" alt=""/></a>
                                             </div>
 
                                              {/*Gallery Item */}
                                             <div className="gallery_item">
-                                                <a className="colorbox" href="myvic/imagess/gallery_8_large.jpg"><img src="myvic/imagess/gallery_8.jpg" alt=""/></a>
+                                                <a className="colorbox" href="myvic/images/victim11.jpg"><img src="myvic/images/victim11.jpg" alt=""/></a>
                                             </div>
 
                                         </div>
