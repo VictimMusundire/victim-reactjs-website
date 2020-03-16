@@ -37,7 +37,8 @@ class Victimmeet extends Component {
                     <div className="container">
                         <div className="row row-eq-height">
 
-                            {/*Intro Content */}
+
+          {/*Intro Content */}
                             <div className="col-xl-6">
                                 <div className="intro_left_content">
                                     <div className="intro_title"><h1>All about me, Victim</h1></div>
@@ -68,6 +69,7 @@ class Victimmeet extends Component {
                             </div>
 
                         </div>
+
                     </div>
 
                 </div>
@@ -78,7 +80,9 @@ class Victimmeet extends Component {
                 {/*CTA */}
 
                 <div className="cta">
+
                     <div className="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/cta.jpg" data-speed="0.8"></div>
+
                     <div className="cta_overlay"></div>
                     <div className="container">
                         <div className="row">
@@ -90,7 +94,6 @@ class Victimmeet extends Component {
                                         <p>
                                             My path as a web and software developer has revolved around one thing:
                                             staying passionate about what I’m doing. I’ve been taking development as a career since 2014.
-
                                             These days I spend my time pursuing my passion of developing for clients and sharing
                                             with others all that I’ve learned. I started offering workshops at some pretty
                                             incredible locations around the world and I cannot wait to see where we end up next!

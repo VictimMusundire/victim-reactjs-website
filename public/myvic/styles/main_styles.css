@@ -414,7 +414,7 @@ section
 .header_content
 {
 	width: 100%;
-	height: 65px;
+	height: 45px;
 	padding-left: 50px;
 	-webkit-transition: all 400ms ease;
 	-moz-transition: all 400ms ease;
@@ -424,7 +424,7 @@ section
 }
 .header.scrolled .header_content
 {
-	height: 60px;
+	height: 50px;
 }
 .logo
 {
@@ -594,11 +594,10 @@ section
 .header_link a span
 {
 	position: relative;
-	font-size: 14px;
+	font-size: 15px;
 	font-weight: 200;
 	color: #ffffff;
-	line-height: 65px;
-	text-transform: uppercase;
+	line-height: 45px;
 	letter-spacing: 0.2em;
 	-webkit-transition: all 400ms ease;
 	-moz-transition: all 400ms ease;
@@ -608,7 +607,7 @@ section
 }
 .header.scrolled .header_link a span
 {
-	line-height: 60px;
+	line-height: 50px;
 }
 .header_link a span > img
 {
@@ -829,14 +828,39 @@ section
 {
 
 }
-.home_title h1 span
+.home_title
 {
 	display: block;
 	font-size: 90px;
 	font-weight: 100;
 	color: #ffffff;
 	line-height: 1;
-	font-style: italic;
+
+}
+
+.vicheader{
+	display: block;
+	font-size: 50px;
+	font-weight: 100;
+	color: #ffffff;
+	line-height: 1;
+
+}
+.vicneed{
+	margin-top: 25px;
+	border-radius: 5px;
+}
+.vicheaderpara{
+	display: block;
+	font-size: 18px;
+	font-weight: 300;
+	color: #ffffff;
+	line-height: 1.5;
+
+}
+
+.vicradii{
+	border-radius: 50%;
 }
 .home_title h1 span:first-of-type
 {
@@ -1332,6 +1356,7 @@ section
 {
 	padding-top: 81px;
 	padding-bottom: 73px;
+	margin-top: 0px;
 }
 .cta_overlay
 {
@@ -1340,7 +1365,7 @@ section
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: rgba(127,102,255,0.9);
+	background: #3b5998;
 }
 .cta_title h1
 {
@@ -1402,11 +1427,12 @@ section
 	width: 100%;
 	height: 44px;
 	padding-left: 18px;
-	background: #463a58;
+	background: #FFFFFF;
 	border: none;
+	border-radius: 5px;
 	outline: none;
 	font-size: 14px;
-	color: #ffffff;
+	color: #000000;
 	font-weight: 400;
 	line-height: 44px;
 }
@@ -1446,6 +1472,7 @@ section
 	width: 100%;
 	height: 59px;
 	border: none;
+	border-radius: 5px;
 	outline: none;
 	background: #7f66ff;
 	border-bottom: solid 3px #ffffff;
@@ -1454,10 +1481,9 @@ section
 }
 .newsletter_button span
 {
-	font-size: 14px;
+	font-size: 17px;
 	font-weight: 700;
 	color: #ffffff;
-	text-transform: uppercase;
 	letter-spacing: 0.2em;
 }
 .newsletter_button span img
@@ -1496,7 +1522,7 @@ section
 	margin-bottom: 4px;
 }
 .vicspace{
-	height: 50px;
+	height: 45px;
 }
 
 .vicradius{
